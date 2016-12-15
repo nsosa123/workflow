@@ -24,3 +24,7 @@ they type in there distination
 side tabs will appear with different funtions
 it will guide you around potholes
 they get to there distination safely
+#features
+gps navigation
+report feature
+login screen with password
